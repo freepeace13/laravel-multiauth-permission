@@ -1,6 +1,6 @@
 {
-    "name": "spatie/laravel-permission",
-    "description": "Permission handling for Laravel 5.4 and up",
+    "name": "freepeace13/laravel-multiauth-permission",
+    "description": "Permission handling for Laravel 5.4 and up extended to support multi authentication.",
     "keywords": [
         "spatie",
         "laravel",
