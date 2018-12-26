@@ -1,3 +1,5 @@
+This is extended version of [spatie/laravel-permission](https://github.com/spatie/laravel-permission) package intended to handle multi-auth permission management.
+
 # Associate users with permissions and roles
 
 
